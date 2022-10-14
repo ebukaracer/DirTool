@@ -1,0 +1,15 @@
+{
+  "name": "com.racer.dir_tool",
+  "displayName": "DirTool",
+  "version": "1.0.0",
+  "unity": "2018.4",
+  "description": "Streamlines creation of Project's directories and \nsub-directories.",
+  "author": {
+    "name": "Racer",
+    "url": "https://github.com/ebukaracer"
+  },
+  "keywords": [
+    "Editor"
+  ],
+  "type": "tool"
+}
